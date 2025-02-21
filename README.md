@@ -12,3 +12,11 @@ In this project, supermarket sales data is analysed to gain insights into custom
 
 
 ## Data Description
+### 1. Customer Details
+Customers are classified as "Member" or "Normal", indicating loyalty program participation. Gender distribution includes Male and Female, allowing for demographic-based sales analysis.
+
+### 2. Order Details
+Each transaction is identified by an Invoice ID and linked to a specific Branch & City (Yangon, Naypyitaw, Mandalay). Orders include details such as Product Line, Unit Price, and Quantity, helping analyze sales performance and profitability.
+
+### 3. Payment Details
+Customers use E-wallet, Cash, or Credit Card for transactions, enabling insights into preferred payment methods. Understanding payment trends helps in optimizing financial operations and promotions.
