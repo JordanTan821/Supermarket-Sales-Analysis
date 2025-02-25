@@ -1,4 +1,5 @@
 # 🏪Supermarket Sales Analysis
+![Grocery](https://github.com/user-attachments/assets/e85bbcc6-c556-404c-afbb-9bf8d176ad33)
 
 ## 📌 Project Overview
 In this project, supermarket sales data is analysed to gain insights into customer purchasing behavior, revenue generation, product line performance, and payment trends. By leveraging visual analytics, the dashboard provides an interactive overview of sales distribution across different factors, enabling data-driven decision-making for business improvements.
