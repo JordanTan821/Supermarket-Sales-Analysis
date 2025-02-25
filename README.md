@@ -13,18 +13,19 @@ In this project, supermarket sales data is analysed to gain insights into custom
 
 ## 🔍 Data Description
 This dataset captures transactional records from a supermarket, detailing customer purchases across different branches, product lines, payment methods, and other key attributes. Below is a description of the data based on critical business aspects:
-### 📌 Customer Details
+📌 **Customer Details**
 Customers are classified as "Member" or "Normal", indicating loyalty program participation. Gender distribution includes Male and Female, allowing for demographic-based sales analysis.
 
-### 📌 Order Details
+📌 **Order Details**
 Each transaction is identified by an Invoice ID and linked to a specific Branch & City (Yangon, Naypyitaw, Mandalay). Orders include details such as Product Line, Unit Price, and Quantity, helping analyze sales performance and profitability.
 
-### 📌 Payment Details
+📌 **Payment Details**
 Customers use E-wallet, Cash, or Credit Card for transactions, enabling insights into preferred payment methods. Understanding payment trends helps in optimizing financial operations and promotions.
 
-### 📌 Customer Satisfaction
+📌 **Customer Satisfaction**
 Customers provide a rating for each transaction, reflecting their purchase experience. This helps in evaluating overall satisfaction and identifying areas for service improvement.     
 
+                                                                                                                                                                          
 This comprehensive analysis of customer, order, payment, and satisfaction data offers valuable insights, supporting data-driven decisions to enhance business strategy and operations. Focusing on these key areas helps improve customer experience, optimize sales performance, and drive sustainable growth.
 
 
