@@ -69,8 +69,8 @@ Conduct a competitive pricing analysis to identify price adjustment opportunitie
 The Health & Beauty category has the lowest revenue (49K), indicating an opportunity for growth. Limited-time discounts such as Buy 1 Get 1 at 50% off on skincare product can be introduced to drive sales.
 
 ### 3. Boost Sales During Low-Peak Hours
-To address declining sales in low-peak hours, a Double Points Membership Reward can be introduced. Members earn 2X loyalty points for purchases made during off-peak periods (e.g., 11 AM - 12 PM, 4 PM - 5 PM, 8 PM). This strategy encourages members to shop during quieter hours while also incentivizing normal customers to register for membership, ultimately increasing both sales volume and customer retention.       
-
-
-
+To address declining sales in low-peak hours, a Double Points Membership Reward can be introduced. Members earn 2X loyalty points for purchases made during off-peak periods (e.g., 11 AM - 12 PM, 4 PM - 5 PM, 8 PM). This strategy encourages members to shop during quieter hours while also incentivizing normal customers to register for membership, ultimately increasing both sales volume and customer retention.               
+          
+             
+           
 In conclusion, the supermarket has a strong revenue foundation but must address specific challenges to enhance profitability and customer engagement. By implementing targeted strategies and leveraging sales insights, sustainable growth and improved operational efficiency can be achieved.
