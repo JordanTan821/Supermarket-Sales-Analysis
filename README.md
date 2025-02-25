@@ -34,9 +34,9 @@ This comprehensive analysis of customer, order, payment, and satisfaction data o
 ![image](https://github.com/user-attachments/assets/508d50f8-8adb-4ffc-b4a5-37efc59c2b69)
 
 1️⃣ **Revenue & Profit Overview**    
-💰 Total Revenue: 322.97K       
-💰 Total Profit: 15.38K       
-💰 Profit Margin: 4.76%       
+💰 **Total Revenue: 322.97K**        
+💰 **Total Profit: 15.38K**       
+💰 **Profit Margin: 4.76%**       
    • While revenue generation is strong, the relatively low profit margin suggests potential high operational costs, discount-driven sales, or inefficiencies in pricing strategies.       
    • Evaluating cost structures and optimizing pricing could improve overall profitability.           
 
@@ -47,24 +47,24 @@ This comprehensive analysis of customer, order, payment, and satisfaction data o
 
 3️⃣ **Sales Performance by Product Line**        
 📌 **Top Revenue-Generating Categories:**       
-✔ Food & Beverages: 56K      
-✔ Sports & Travel: 55K      
-✔ Electronic Accessories: 54K           
+✔ **Food & Beverages: 56K**      
+✔ **Sports & Travel: 55K**      
+✔ **Electronic Accessories: 54K**           
      
 📌 **Lowest-Performing Category:**     
-🚨 Health & Beauty: 49K (15.2%)     
+🚨 **Health & Beauty: 49K (15.2%)**        
 
  • Health & Beauty lags in revenue contribution. Targeted promotions can improve its performance.
   
 4️⃣ **Sales Distribution Across Different Hours**      
 The chart highlights key sales trends across different hours:           
 **Peak Sales:**         
-   • 7 PM (39.7K revenue) – The highest sales period, likely due to after-work shopping.      
-   • Another surge occurs at 1 PM (34.7K revenue), aligning with lunchtime breaks.              
+   • **7 PM (39.7K revenue)** – The highest sales period, likely due to after-work shopping.      
+   • **1 PM (34.7K revenue)** - Aligning with lunchtime breaks.              
 
 **Lowest Sales**:     
-   • 8 PM (23.0K revenue) – A sharp decline after the evening peak, possibly due to store closing hours.       
-   • Other dips occur at 11 AM (26.1K) and 5 PM (24.4K).        
+   • **8 PM (23.0K revenue)** – A sharp decline after the evening peak, possibly due to store closing hours.       
+   • **11 AM (26.1K revenue) & 5 PM (24.4K revenue)** - Afternoon Slump       
 
 **Trends**:      
    • Stable morning sales (10 AM - 12 PM) around 30K-31K, followed by a midday peak.      
